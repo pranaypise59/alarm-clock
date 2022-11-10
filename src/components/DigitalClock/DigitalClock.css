@@ -1,0 +1,10 @@
+.clock-container{
+margin-top: 20vh;
+}
+.clock__text {
+  display: flex;
+  justify-content: center;
+}
+.clock__date {
+  text-align: center;
+}
